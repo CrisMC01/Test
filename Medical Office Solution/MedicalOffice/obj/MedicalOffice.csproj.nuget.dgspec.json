@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bloom\\Source\\Repos\\Test\\Medical Office Solution\\MedicalOffice\\MedicalOffice.csproj": {}
+    "C:\\Users\\jamar\\Source\\Repos\\Test\\Medical Office Solution\\MedicalOffice\\MedicalOffice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bloom\\Source\\Repos\\Test\\Medical Office Solution\\MedicalOffice\\MedicalOffice.csproj": {
+    "C:\\Users\\jamar\\Source\\Repos\\Test\\Medical Office Solution\\MedicalOffice\\MedicalOffice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bloom\\Source\\Repos\\Test\\Medical Office Solution\\MedicalOffice\\MedicalOffice.csproj",
+        "projectUniqueName": "C:\\Users\\jamar\\Source\\Repos\\Test\\Medical Office Solution\\MedicalOffice\\MedicalOffice.csproj",
         "projectName": "MedicalOffice",
-        "projectPath": "C:\\Users\\bloom\\Source\\Repos\\Test\\Medical Office Solution\\MedicalOffice\\MedicalOffice.csproj",
-        "packagesPath": "C:\\Users\\bloom\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bloom\\Source\\Repos\\Test\\Medical Office Solution\\MedicalOffice\\obj\\",
+        "projectPath": "C:\\Users\\jamar\\Source\\Repos\\Test\\Medical Office Solution\\MedicalOffice\\MedicalOffice.csproj",
+        "packagesPath": "C:\\Users\\jamar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jamar\\Source\\Repos\\Test\\Medical Office Solution\\MedicalOffice\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\bloom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jamar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -107,7 +107,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
