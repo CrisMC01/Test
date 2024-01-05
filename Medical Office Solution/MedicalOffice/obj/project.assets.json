@@ -13198,11 +13198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cristina\\Desktop\\Files\\College\\Term 3\\Design Paterns\\Solutions\\Medical Office Solution_Step_30\\Medical Office Solution\\MedicalOffice\\MedicalOffice.csproj",
+      "projectUniqueName": "C:\\Users\\Cristina\\Documents\\GitHub\\Test\\Medical Office Solution\\MedicalOffice\\MedicalOffice.csproj",
       "projectName": "MedicalOffice",
-      "projectPath": "C:\\Users\\Cristina\\Desktop\\Files\\College\\Term 3\\Design Paterns\\Solutions\\Medical Office Solution_Step_30\\Medical Office Solution\\MedicalOffice\\MedicalOffice.csproj",
+      "projectPath": "C:\\Users\\Cristina\\Documents\\GitHub\\Test\\Medical Office Solution\\MedicalOffice\\MedicalOffice.csproj",
       "packagesPath": "C:\\Users\\Cristina\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cristina\\Desktop\\Files\\College\\Term 3\\Design Paterns\\Solutions\\Medical Office Solution_Step_30\\Medical Office Solution\\MedicalOffice\\obj\\",
+      "outputPath": "C:\\Users\\Cristina\\Documents\\GitHub\\Test\\Medical Office Solution\\MedicalOffice\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

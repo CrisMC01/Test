@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Dn42Zv5l1rmO9QruI9BgSZ/uFdzI47sfU2W+vVUN2xerO2kzRX56mLpYVXTuPgeioPC4B+1XkRIyRxjjPjsV/g==",
+  "dgSpecHash": "eMqvHQB9+EXpyy/KVFCw1kshyJ/K+lSuqxyVq9P02S9tRuhVmcTxiTRPnsGCP5hFKBkvn6h7xLopxFBoMe0/iw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Cristina\\Desktop\\Files\\College\\Term 3\\Design Paterns\\Solutions\\Medical Office Solution_Step_30\\Medical Office Solution\\MedicalOffice\\MedicalOffice.csproj",
+  "projectFilePath": "C:\\Users\\Cristina\\Documents\\GitHub\\Test\\Medical Office Solution\\MedicalOffice\\MedicalOffice.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Cristina\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Cristina\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
