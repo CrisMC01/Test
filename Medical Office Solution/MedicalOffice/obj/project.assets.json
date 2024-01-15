@@ -13192,23 +13192,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jamar\\.nuget\\packages\\": {},
+    "C:\\Users\\Cristina\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jamar\\Source\\Repos\\Test\\Medical Office Solution\\MedicalOffice\\MedicalOffice.csproj",
+      "projectUniqueName": "C:\\Users\\Cristina\\Documents\\Test\\Medical Office Solution\\MedicalOffice\\MedicalOffice.csproj",
       "projectName": "MedicalOffice",
-      "projectPath": "C:\\Users\\jamar\\Source\\Repos\\Test\\Medical Office Solution\\MedicalOffice\\MedicalOffice.csproj",
-      "packagesPath": "C:\\Users\\jamar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jamar\\Source\\Repos\\Test\\Medical Office Solution\\MedicalOffice\\obj\\",
+      "projectPath": "C:\\Users\\Cristina\\Documents\\Test\\Medical Office Solution\\MedicalOffice\\MedicalOffice.csproj",
+      "packagesPath": "C:\\Users\\Cristina\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Cristina\\Documents\\Test\\Medical Office Solution\\MedicalOffice\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\jamar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Cristina\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
